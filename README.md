@@ -14,7 +14,7 @@
 
 ## Add a link to the images folder
 
-[Images folder](tree/main/images)
+[Images folder](/images)
 
 ## Add the image from the images folder
 Done.
