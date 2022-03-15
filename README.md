@@ -2,11 +2,11 @@
 
 ## Create checkboxes with the following tasks:
 
-- [ ] External Link
-- [ ] Internal Link
-- [ ] Images
-- [ ] Emojis
-- [ ] Tables
+- [ x ] External Link
+- [ x ] Internal Link
+- [ x ] Images
+- [ x ] Emojis
+- [ x ] Tables
 
 ## Add an external link to the github documentation. https://help.github.com/en
 
@@ -14,4 +14,21 @@
 
 ## Add a link to the images folder.
 
-[Images folder](https://help.github.com/en)
+[Images folder](https://github.com/KamilWawrzynczuk/authoring/tree/main/images)
+
+## Add the image from the images folder.
+Done.
+
+## Add an emoji.
+:bowtie:
+
+## Add a table with two headings, names and class. Populate at least two rows of the table.
+|   NAMES | CLASS   |  
+|---|---|
+|   Paweł | 2B   |  
+|  Sandra | 3C   |   
+|  Jan | 1A  |  
+
+## Link each of the secondary headings to the respective checkbox items.
+
+## Once you have completed all the tasks, tick the checkboxes.
