@@ -14,7 +14,7 @@
 
 ## Add a link to the images folder.
 
-[Images folder](https://github.com/KamilWawrzynczuk/authoring/tree/main/images)
+[Images folder](/tree/main/images)
 
 ## Add the image from the images folder.
 Done.
